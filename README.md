@@ -34,9 +34,8 @@ don't work simply based on the CSV files. You can choose whether to import the d
 
     _"I want to be able to quickly review and compare performance of products in my region. See if there are some products or categories picking up on sales or problematic products or categories."_
 
-
-   III. Archive your work and send it to the person who provided you the case via email.
-   NOTE: The archive file should contain your SQL queries and Tableau Packaged Workbook with active data source extracts
+4. Archive your work and send it to the person who provided you the case via email.
+NOTE: The archive file should contain your SQL queries and Tableau Packaged Workbook with active data source extracts
    
 ### What we’ll be evaluating your submissions on
 
