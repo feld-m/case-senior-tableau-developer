@@ -22,6 +22,7 @@ don't work simply based on the CSV files. You can choose whether to import the d
 3. Using SQL and Tableau Desktop, please complete the following task:
 
    Imagine you – in the role of a BI consultant – had a meeting with one of the area managers coming up next week (which of them you'd like to meet is up to your choice). 
+
    I.Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you with many requirements and except the ones below; however, the manager wants you to take your own initiative and have something ready when you meet.
 
 
