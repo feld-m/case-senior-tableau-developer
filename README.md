@@ -26,7 +26,7 @@ don't work simply based on the CSV files. You can choose whether to import the d
    I. Can you prepare a dashboard which allows you to evaluate key performance indicators (KPI) of the region. The manager didn't provide you with many requirements except the message below; however, the manager wants you to take your own initiative and have something ready when you meet.
 
 
-    _"I want to be able to quickly compare current period vs previous period for each KPI for my region. Ideally, I would have a filter with these options: This Year, This Quarter and This Month. When one of those selected, I would also see the performance of one of those: Previous Year, Previous Quarter and Previous Month. Additionally, it would be great to have one compeletly custom date range option, e.g., 1/2/2021 as a start date and 15/3/2022 as an end date. Do you think you make this happen?"_
+    _"I want to be able to quickly compare current period vs previous period for each KPI for my region. Ideally, I would have a filter with these options: This Year, This Quarter and This Month. When one of those are selected, I would also see the performance of one of those: Previous Year, Previous Quarter and Previous Month. Additionally, it would be great to have one compeletly custom date range option, e.g., 1/2/2021 as a start date and 15/3/2022 as an end date. It should be affecting the same KPI charts and showing the performance in the previous period as in the range of the selected custom date option. Do you think you can make this happen?"_
 
 
    II. The area manager is interested in evaluating performance of different products and their sub-/categories. Can you prepare a data product which allows to do so intuitively and efficiently?
